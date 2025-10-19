@@ -8,4 +8,8 @@ add_executable(c__learn main.cpp
         basics/Hello.h
         basics/Name.cpp
         basics/ifelseDemo.cpp
+        basics/Operator.cpp
+        basics/sum.cpp
+        basics/avg.cpp
+        basics/demo.cpp
 )
