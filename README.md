@@ -4,15 +4,15 @@ These are the first 4 lines and the last line that you see in the program to you
 
 Let's break down this line of code:
 
-Libraries: #include <iostream> imports the iostream library, providing input/output tools like cout. Think of it as including a toolbox.
+# Libraries: #include <iostream> imports the iostream library, providing input/output tools like cout. Think of it as including a toolbox.
 
-Namespaces: using namespace std; lets you use standard elements like cout directly (instead of std::cout). It's like specifying which set of tools you're using.
+# Namespaces: using namespace std; lets you use standard elements like cout directly (instead of std::cout). It's like specifying which set of tools you're using.
 
-main function: int main() { ... } is the core of every C++ program; execution starts here. It's the program's starting point.
+# main function: int main() { ... } is the core of every C++ program; execution starts here. It's the program's starting point.
 
-cout: Pronounced as see-out, cout stands for "character output stream". It is used to output data to screen.
+# cout: Pronounced as see-out, cout stands for "character output stream". It is used to output data to screen.
 
-<<: This is the stream insertion operator. It is used with cout to send data to the output stream.
+# <<: This is the stream insertion operator. It is used with cout to send data to the output stream.
 
 12: This is the data we want to print. Here, it's the number 12.
 
